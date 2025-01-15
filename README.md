@@ -1,6 +1,6 @@
 # AEEM-2058
 A workshop on the fundamentals of Python<br>
-####**Outline** <br>
+#### **Outline** <br>
 * Variables and Data Types
 * Control Flow
   * Conditional Statements
